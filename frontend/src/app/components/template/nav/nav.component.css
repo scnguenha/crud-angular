@@ -8,10 +8,16 @@
 }
 
 .sidenav i {
-    padding-right: 10px;
+    padding-right: 15px;
 }
 
 .content {
     padding: 16px;
     background-color: #FFF;
+}
+
+@media (max-width: 700px) {
+    .sidenav {
+        width: 54px;
+    }
 }

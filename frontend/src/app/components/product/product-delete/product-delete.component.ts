@@ -1,5 +1,6 @@
-import { Product } from './../product/product.model';
-import { ProductService } from './../product/product.service';
+import { ProductService } from './../product.service';
+import { Product } from './../product.model';
+
 import { Router, ActivatedRoute } from '@angular/router';
 import { Component, OnInit } from '@angular/core';
 
