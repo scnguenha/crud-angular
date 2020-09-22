@@ -1,19 +1,34 @@
 {
-    "products": [
-        {
-            "id": 1,
-            "name": "Caneta BIC Preta",
-            "price": 5.89
-        },
-        {
-            "id": 2,
-            "name": "Notebook Mac Pro",
-            "price": 90000
-        },
-        {
-            "id": 1,
-            "name": "Samsung S20+",
-            "price": 49999.99
-        }
-    ]
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Fino Preta",
+      "price": "9.89"
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": 90000
+    },
+    {
+      "id": 3,
+      "name": "Samsung S20+",
+      "price": 49999.99
+    },
+    {
+      "name": "Mouse Think pad 256",
+      "price": "989.99",
+      "id": 4
+    },
+    {
+      "name": "Tecno Camon 12",
+      "price": "12599.99",
+      "id": 5
+    },
+    {
+      "name": "Samsung Galaxy Grand Prime +",
+      "price": "9999.99",
+      "id": 6
+    }
+  ]
 }
